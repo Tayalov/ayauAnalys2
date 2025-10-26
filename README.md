@@ -77,6 +77,9 @@ Medium (10–15 vertices)
 Large (20–30+ vertices)
 
 Output JSON — stores MST results for each algorithm, including cost, execution time, and operation count.
+<img width="1173" height="578" alt="image" src="https://github.com/user-attachments/assets/953fe063-261a-4fa7-9288-9f7b8efe4a1e" />
+<img width="1498" height="433" alt="Снимок экрана 2025-10-26 191706" src="https://github.com/user-attachments/assets/c4dd1a62-c1eb-4882-b566-d9de3e579cb9" />
+
 
 How to Run:
 
